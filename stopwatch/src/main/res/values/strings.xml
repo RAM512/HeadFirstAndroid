@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="reset">Сброс</string>
+    <string name="thanks">Thanks for choosing our awesome blend tea. How do you want it serving?</string>
+    <string name="temperature">Temperature</string>
+    <string name="hot">HOT</string>
+    <string name="cold">COLD</string>
+    <string name="milk">Milk</string>
+    <string name="sugar">Sugar</string>
+    <string name="lemon">Lemon</string>
+    <string name="act">Активити</string>
+</resources>

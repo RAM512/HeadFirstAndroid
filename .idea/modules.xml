@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Beer Adviser/Beer Adviser.iml" filepath="$PROJECT_DIR$/Beer Adviser/Beer Adviser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HeadFirstAndroid.iml" filepath="$PROJECT_DIR$/HeadFirstAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/messenger/messenger.iml" filepath="$PROJECT_DIR$/messenger/messenger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/starbuzz/starbuzz.iml" filepath="$PROJECT_DIR$/starbuzz/starbuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stopwatch/stopwatch.iml" filepath="$PROJECT_DIR$/stopwatch/stopwatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workout/workout.iml" filepath="$PROJECT_DIR$/workout/workout.iml" />
+    </modules>
+  </component>
+</project>
